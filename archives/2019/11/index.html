@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<script src="/js/clicklove.js"></script>
+
 <html  lang="en">
 <head>
     <meta charset="utf-8" />
@@ -734,5 +734,13 @@ document.addEventListener('DOMContentLoaded', function () {
 <link rel="stylesheet" href="/css/search.css">
 <link rel="stylesheet" href="/css/insight.css">
     
+    <script src="/js/clicklove.js"></script>
+<!-- 雪花特效 -->
+    <script type="text/javascript">
+      var windowWidth = $(window).width();
+      if (windowWidth > 480) {
+        document.write('<script type="text/javascript" src="/js/src/snow.js"><\/script>');
+      }
+    </script>
 </body>
 </html>
