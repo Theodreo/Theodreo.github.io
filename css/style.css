@@ -395,8 +395,8 @@ img.thumbnail {
   font-family: "Source Code Pro", monospace, "Microsoft YaHei";
 }
 .content code {
-  color: #ff3860;
-  background: transparent;
+  color: #5e81ac;
+  background: #eceff4;
   padding: 0;
 }
 .content blockquote footer strong + cite {
