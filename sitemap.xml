@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.comment/2019/10/26/MY%20first%20blog/</loc>
+    
+    <lastmod>2020-06-23T15:22:19.704Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.comment/2020/06/22/python%E7%88%AC%E8%99%AB%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0day01/</loc>
     
     <lastmod>2020-06-23T15:18:11.976Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>http://yoursite.comment/2019/11/24/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B%EF%BC%881%EF%BC%89/</loc>
     
     <lastmod>2020-06-23T15:17:38.297Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.comment/2019/10/26/MY%20first%20blog/</loc>
-    
-    <lastmod>2020-06-23T15:17:29.938Z</lastmod>
     
   </url>
   
